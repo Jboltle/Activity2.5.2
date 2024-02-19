@@ -7,14 +7,14 @@ public class  Board
 {
   private String solvedPhrase;
   private String phrase;
-  private int currentLetterValue; 
+  private int setLetterValue; 
 
-  /* your code here - constructor(s) */ 
-  
-  /* your code here - accessor(s) */
-  
-  /* your code here - mutator(s)  */
-
+public Board()
+{
+  solvedPhrase = "";
+  phrase = "";
+  currentLetterValue = 0;
+}
 
   /* ---------- provided code, do not modify ---------- */
   public void setLetterValue()

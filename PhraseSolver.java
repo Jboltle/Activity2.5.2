@@ -10,6 +10,21 @@ public class PhraseSolver
       return player;
       
     }
+    private Strting player2(String player)
+    public Board(){
+
+      boolean solved = false
+    }
+    public PhraseSolver() {
+      
+      boolean solvedPhrase = false;
+      String player1 = "";
+      int num = 0;
+
+
+
+
+    }
   /* your code here - attributes */
 
   /* your code here - constructor(s) */ 
